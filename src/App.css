@@ -17,6 +17,13 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+p {
+  border: solid black;
+  border-radius: 25%;
+}
+.pupId {
+  background-color: blanchedalmond;
+}
 
 @keyframes logo-spin {
   from {
